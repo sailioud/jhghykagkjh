@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Document   : my_list
+    Created on : 10 Δεκ 2011, 1:23:28 μμ
+    Author     : alexiaKourfali
+-->
+
+
+<my_List>
+	<Entry>
+		<Product>Café</Product>
+		<Price>18.50</Price>
+	</Entry>
+	
+	<Entry>
+		<Product>Azúcar</Product>
+		<Price>6.95</Price>
+	</Entry>
+	
+	<Entry>
+		<Product>Agua</Product>
+		<Price>1.29</Price>
+	</Entry>
+</my_List>
+
+
+
